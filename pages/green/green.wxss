@@ -1,0 +1,11 @@
+/* pages/green/green.wxss */
+.green_block{
+  margin-top: 370rpx;
+  background-color: #22b14c;
+  height: 600rpx;
+  font-size: 60rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+}

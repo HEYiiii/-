@@ -1,0 +1,7 @@
+<!--pages/green/green.wxml-->
+<view>
+  <view class="green_block">
+     <view>{{text}}</view>
+     <view>{{nowDate}}</view>
+  </view>
+</view>

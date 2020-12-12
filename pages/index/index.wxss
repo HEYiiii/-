@@ -1,0 +1,10 @@
+button::after{ 
+	border: none; 
+}
+
+button {
+    margin-top: 20rpx;
+    border-radius: 60rpx;
+    background: #457fca; 
+    color: #fff;
+}

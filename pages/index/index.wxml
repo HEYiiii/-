@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <button bindtap="navTo" data-id="1">扫码入馆</button>
+  <button bindtap="navTo" data-id="0">扫码出馆</button>
+</view>
